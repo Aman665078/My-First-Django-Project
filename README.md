@@ -1,0 +1,1 @@
+This is my first django project it was build after leaning django for 3 day i build it with help of some django documentation and youtube tutorial . It has a complete operation of CRUD and authentication systen . I have learned a lot from this .
